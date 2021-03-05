@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on energy system management and distributed optimization.
+- 🌱 I’m currently learning system modeling and distributed computing methods.
+- 📫 How to reach me: xuetaob704112078@163.com
+- 😄 Pronouns: Garan
+- 💬 Ask me about travelling hahah.
+- ⚡ Fun fact: Friday increases happiness around the world by 11%!
