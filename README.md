@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Garan
 - 💬 Ask me about travelling hahah.
 - ⚡ Fun fact: Friday increases happiness around the world by 11%!
+
+Other info：
+- code with Python，JavaScript and Matlab
